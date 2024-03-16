@@ -1,0 +1,10 @@
+    .buttonsearch {
+        text-align: right;
+        margin-right: -100px;
+        margin-top:-38px;
+    }
+    .button-container {
+        display: flex;
+        justify-content: flex-end; /* or use 'center' depending on your requirement */
+     
+    }
